@@ -1,4 +1,4 @@
-# Sales_Data_Analysis_Intern_at_MeriSkill
+# Sales Data Analysis Intern Project at MeriSkill
 As part of a Data Analyst internship at MeriSkill, a comprehensive sales data analysis was conducted to uncover actionable insights and support data-driven decision-making. The dataset, containing over 185,000 records, was cleaned, structured, and analyzed using Python and data visualization tools. Key business questions were addressed, including identifying peak sales months, top-performing cities, optimal advertising hours, frequently bundled products, and best-selling items. It was revealed that October to December were the highest sales months, while San Francisco led in total revenue. Peak sales hours were found between late morning and evening, offering strategic timing for digital ads. AAA Batteries (4-pack) emerged as the top-selling product, highlighting the impact of low-cost, high-demand items. These findings were translated into strategic recommendations such as bundling products, targeting peak hours for promotions, and aligning marketing with seasonal trends to optimize revenue and customer engagement.
 
 ## **Conclusion and Insights**
